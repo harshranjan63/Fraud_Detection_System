@@ -1,0 +1,19 @@
+{
+  "name": "fraud_detection_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshranjan63/Fraud_Detection_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshranjan63/Fraud_Detection_System/issues"
+  },
+  "homepage": "https://github.com/harshranjan63/Fraud_Detection_System#readme"
+}
