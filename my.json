@@ -1,5 +1,5 @@
 {
   "IP":"192.168.16.3",
-  "DB_USERNAME":"trivy-test",
-  "DB_PASSWORD":"4bHUIIOS8EIBiEdO"
+  "USERNAME":"trivy-test",
+  "PASSWORD":"4bHUIIOS8EIBiEdO"
 }
